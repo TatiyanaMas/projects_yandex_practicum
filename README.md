@@ -7,3 +7,4 @@
 | Проект               | Описание                                                                             | Стек                              |
 |----------------------|--------------------------------------------------------------------------------------|-----------------------------------|
 | [предобработка данных](https://github.com/TatiyanaMas/projects_yandex_practicum/tree/main/predobrabotka) | предбоработка данных для дальнейшего учета при построении модели кредитного скоринга | python, jupyter notebook, pandas  |
+| [исследовательский анализ](https://github.com/TatiyanaMas/projects_yandex_practicum/tree/main/issledovatelskiy_analiz) | исследовательский анализ данных и установка параметров, влияющих на цену квартир     | python, jupyter notebook, pandas, matplotlib |
